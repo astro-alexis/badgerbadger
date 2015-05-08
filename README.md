@@ -7,3 +7,6 @@ name, institute.
 
 How to execute the script:
 sh badgerbadger.sh "firstname" "lastname" "institute"
+
+Inkscape is used via command line in the final step to convert
+badges from svg to pdf format.
