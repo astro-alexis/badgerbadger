@@ -1,3 +1,4 @@
+
 #!/bin/bash 
 
 nt=$(echo $1_$2|tr -d ' ');
